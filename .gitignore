@@ -1,0 +1,9 @@
+.vs/
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.env
+venv/
